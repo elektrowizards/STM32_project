@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>versuch_1_LED_Blink</name>
-=======
-	<name>üben</name>
->>>>>>> 9b31a03 (initial commit)
+	<name>üben_pushbutton_interrupt</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
 			<triggers>clean,full,incremental,</triggers>
@@ -33,9 +28,5 @@
 		<nature>com.st.stm32cube.ide.mcu.MCURootProjectNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> 9b31a03 (initial commit)
 	</natures>
 </projectDescription>
