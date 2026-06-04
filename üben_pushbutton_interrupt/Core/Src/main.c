@@ -60,7 +60,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
 	if (GPIO_Pin = B1_Button_Pin)
 	{
-		HAL_GPIO_TogglePin(GPIOA, LD2_Pin);
+		HAL_GPIO_TogglePin(GPIOA, LD2_Pin); // Apakahh masuk git?
 	}
 }
 /* USER CODE END 0 */
